@@ -1,0 +1,15 @@
+body {
+    height: 100%;
+    background-color: rgb(13, 13, 65);
+    margin: 0;
+    color: rgb(220, 234, 247);
+}
+
+h1 {
+    size: 15dvw;
+    text-align: center;
+}
+
+table {
+    margin: auto;
+}
