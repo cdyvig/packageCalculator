@@ -11,5 +11,7 @@ h1 {
 }
 
 table {
+    padding-top: 2vw;
+    border-spacing: .3vw 1.2vw;
     margin: auto;
 }
